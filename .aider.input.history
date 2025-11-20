@@ -1,0 +1,44 @@
+
+# 2025-11-20 19:15:15.517898
++Code the following app
++```
++Idea: A tool that estimates potential "Liquidation Heatmaps" based on Open Interest data.
++User Goal: Predict where price might bounce due to forced liquidations of over-leveraged traders.
++Core Features (MVP):
++
++* Visualize "clusters" of potential long/short liquidations.
++* Logic based on: Entry Price + Leverage assumptions (e.g., 25x, 50x, 100x).
++* Real-time price overlay on the heatmap.
++
++Development Plan:
++
++1. Fetch Open Interest and recent large trade data.
++2. Create a simplified algorithm: "If 10MLongsenteredat50k, they liquidate at $X".
++3. Visualize this as a horizontal bar chart or bubble chart at price levels.
++4. Update in near real-time.
++5. Note: Accurate liquidation data is hard to get; this would be an estimator tool.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-20 19:15:15.518822
++Code the following app
++```
++Idea: A tool that estimates potential "Liquidation Heatmaps" based on Open Interest data.
++User Goal: Predict where price might bounce due to forced liquidations of over-leveraged traders.
++Core Features (MVP):
++
++* Visualize "clusters" of potential long/short liquidations.
++* Logic based on: Entry Price + Leverage assumptions (e.g., 25x, 50x, 100x).
++* Real-time price overlay on the heatmap.
++
++Development Plan:
++
++1. Fetch Open Interest and recent large trade data.
++2. Create a simplified algorithm: "If 10MLongsenteredat50k, they liquidate at $X".
++3. Visualize this as a horizontal bar chart or bubble chart at price levels.
++4. Update in near real-time.
++5. Note: Accurate liquidation data is hard to get; this would be an estimator tool.
++```
++
++Generate an app logo and update the app metadata title and description.
